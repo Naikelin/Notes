@@ -4,26 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "ecfc3196bdcc5f73",
+        "id": "8fa973d4d32fc64c",
         "type": "leaf",
-        "dimension": 33.33333333333333,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planner.md",
-            "mode": "preview",
+            "file": "Day Planners/2022-05-23.md",
+            "mode": "source",
             "source": false
-          }
-        }
-      },
-      {
-        "id": "8fa973d4d32fc64c",
-        "type": "leaf",
-        "dimension": 66.66666666666666,
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Excalidraw/Drawing 2022-05-23 18.10.32.excalidraw.md"
           }
         }
       }
@@ -81,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-05-23 18.10.32.excalidraw.md",
+                "file": "Day Planners/2022-05-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -99,18 +87,28 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "903356b3db56d1c7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "8fa973d4d32fc64c",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-05-23 18.10.32.excalidraw.md",
+    "Day Planners/2022-05-23.md",
+    "Day Planners/Day Planner-20220523.md",
+    "Distribuited Systems.md",
     "Day Planner.md",
-    "Distribuited Systems.md"
+    "Excalidraw/Drawing 2022-05-23 18.10.32.excalidraw.md"
   ]
 }
