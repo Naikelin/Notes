@@ -6,7 +6,7 @@
       {
         "id": "ecfc3196bdcc5f73",
         "type": "leaf",
-        "dimension": 68.78205128205128,
+        "dimension": 33.33333333333333,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,13 +19,11 @@
       {
         "id": "8fa973d4d32fc64c",
         "type": "leaf",
-        "dimension": 31.21794871794872,
+        "dimension": 66.66666666666666,
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Day Planner.md",
-            "mode": "preview",
-            "source": false
+            "file": "Excalidraw/Drawing 2022-05-23 18.10.32.excalidraw.md"
           }
         }
       }
@@ -83,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planner.md",
+                "file": "Excalidraw/Drawing 2022-05-23 18.10.32.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +91,14 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "3a31781fbf30bb32",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
@@ -101,8 +107,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ecfc3196bdcc5f73",
+  "active": "8fa973d4d32fc64c",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-05-23 18.10.32.excalidraw.md",
     "Day Planner.md",
     "Distribuited Systems.md"
   ]
