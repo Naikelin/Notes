@@ -4,5 +4,8 @@
   "calendar",
   "obsidian-day-planner",
   "obsidian-excalidraw-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "cm-editor-syntax-highlight-obsidian",
+  "sliding-panes-obsidian",
+  "obsidian-excel-to-markdown-table"
 ]
