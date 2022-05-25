@@ -2,8 +2,7 @@
 
 Se le pide que tenga un cluster de cassandra con 3 nodos. 
 
-
-![[Blank diagram.png]]
+![[Diagrama.png]]
 
 Cada una de las tablas debe existir en un Keyspace distinto, donde pacientes debe tener un factor de replicación de 2 y recetas debe tener un factor de replicación de 3, ambos utilizando una Estrategia simple.
 
