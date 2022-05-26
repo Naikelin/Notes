@@ -11,7 +11,6 @@
 - Base de clientes grandes -> brinda seguridad como empresa
 - Garantías provistas por la empresa -> Soporte 24/7
 - Manejo automático de facturas electrónicas
-- 
 ## Escalabilidad
 - Sin límite de datos de almacenamiento
 - Uso de cloud
@@ -28,4 +27,3 @@
 - Aplicación fluida
 - Respuestas rápidas al realizar acciones
 - Carga de compras inmediatas
-- 
