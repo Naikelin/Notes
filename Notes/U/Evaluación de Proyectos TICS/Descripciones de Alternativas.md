@@ -45,3 +45,22 @@ Existen también características que dan un plus al software:
 - Gestión de equipos con la misma empresa, asegurando equipamiento.
 
 ## FUDO
+Fudo cuenta con varias funcionalidades, las cuales todas cuentan con subfuncionalidades básicas. Por otro lado, las funcionalidades generales son: Delivery, Fiscal y facturación electrónica.
+
+Funcionalidades generales
+- Existen distintas funcionalidades Básicas de caja, pudiendo realizar un arqueo de caja y movimentos en las mismas. También se pueden visualizar las ventas por mesón y mesas.
+- Por otro lado, se puede realizar una configuración del mapa de salas y mesas, permitiendo realziar una asignación de garzones sobre ventas. 
+- Cuenta con múltiples cajas y medios pagos, teniendo en consideración un control de propinas.
+- En lo que corresponde a administración, existe un administración de gastos a traves de sus distintas categorías. Existe una actualización automática de costos y stock, dependiendo de las últimas cargas existentes.
+- Se pueden tener distintas categorías de productos, permitiendo tener una organización completa de ellas.
+- Los clientes tienen una base de datos completa, siendo totalmente segura y encriptada.
+- Los proveedores pueden ser categorizados y organizados con sus respectivas cuentas corrientes, teniendo una automatización en el pago de los mismos.
+- Los usuarios tienen distintos roles, los cuales pueden ser restrigidos para la intervención de lo que corresponde al local en si.
+- Se pueden descargar distintos reportes en distintos tipos de formatos, permitiendo ser visualizados en cualquier dispositivo. 
+- Las aplicaciones son muiltiplataforma, teniendo una app para cada tipo de usuario
+
+
+Existen también características que dan un plus al software:
+- Existe un módulo de delivery, el cual permite asignar, verificar, estimar tiempo y asignar reparticiones al mismo.
+- Se pueden emitir boletas fiscales de manera sencilla.
+- Se pueden facturar electrónicamente.
