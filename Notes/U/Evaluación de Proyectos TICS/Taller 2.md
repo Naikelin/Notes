@@ -1,7 +1,10 @@
 # Taller 2
 
+Reservas: web y recepci ́on, asignaci ́on de mozos, atenci ́on de mesas, atenci ́on de bar, despacho de cocina, despacho  
+de bebestibles, cobro y pago y gesti ́on de Delivery.
+
 ## Usabilidad
-- Debe mostrar mesas a los mosos junto a su asignación
+- Debe mostrar mesas a los mozos junto a su asignación
 - La carta debe desplegarse a través de un código QR siendo dinámica
 - Debe mostrar el stock presente para los trabajadores
 - Sistema de reserva online
