@@ -6,7 +6,7 @@ Resto es un software que es capaz de adaptarse a todo tipo de negocios (pequeño
 
 En grandes rasgos, este sistema posee características que nos interesan, debido a que se especialza en ventas de salón y delivery.
 
-Con lo que respecta al salón, este permite:
+Existen características escenciales:
 
 - Ventas en caja: Cada unas de las cajas tiene cierre independiente. Entre las características que nos interesan, se pueden agregar productos, visualizar estado de las mesas, la distribución de los garzones, tiempos de permanencia en la mesa, reservas, facturación, cobranza.
 - Cocina: se puede enviar a la cocina los pedidos de los clientes evitando perder tiempo de ir a la cocina por cada pedido de un comensal.
@@ -27,16 +27,11 @@ Resto cuenta con más de 150 referencias de clientes. Esto puede asegurar que Re
 Methodo es un software que puede interactuar con todo tipo de negocios. Se enfoca en mejorar la experiencia de los clientes, optimizar los procesos de venta y tomar mejores decisiones comerciales. Tiene más de 20 años en el mercado siempre intenta integrar las mejores tecnologías en el rubro.
 
 Methodo provee las siguientes características:
-
-Agilización de gestión de garzones en salones a través de una tablet. Este permite enviar pedidos a la cocina, sin la necesidad de internet (sólo wifi).
-
-Servicio de punto de venta, caja, impresión de comandas y envío de correo electrónico con reportes al cierre, que facilita la gestión operativa y administrativa de tu local.
-
-Manejo de inventario para tener en cuenta de costos y utilidades del negocio.
-
-Solución de delivery que permite ordernar producción de comandas con el fin de cubrir las entregas. Logra sincronizar la preparación y el reparto, pero no es automática.
-
-El centro de comandas permite visualizar de manera gráfica hasta 7 centros de producción (cocinas) a la vez, con tal de poder suplir cada uno de un salón.
+- Agilización de gestión de garzones en salones a través de una tablet. Este permite enviar pedidos a la cocina, sin la necesidad de internet (sólo wifi).
+- Servicio de punto de venta, caja, impresión de comandas y envío de correo electrónico con reportes al cierre, que facilita la gestión operativa y administrativa de tu local.
+- Manejo de inventario para tener en cuenta de costos y utilidades del negocio.
+- Solución de delivery que permite ordernar producción de comandas con el fin de cubrir las entregas. Logra sincronizar la preparación y el reparto, pero no es automática.
+- El centro de comandas permite visualizar de manera gráfica hasta 7 centros de producción (cocinas) a la vez, con tal de poder suplir cada uno de un salón.
 
 Existen también características que dan un plus al software:
 - Emisión de boletas y facturas electrónicas. Se agiliza el proceso.
@@ -44,7 +39,9 @@ Existen también características que dan un plus al software:
 - Reportes desde cualquier dispositivo a través de dashboard.
 - Gestión de equipos con la misma empresa, asegurando equipamiento.
 
-## FUDO
+Methodo cuenta con más de 40 referencias de clientes. Esto puede asegurar que Methodo sea una buena opción porque aunque quiebre, querrán mantenerla activa, una cantidad grande de empresas.
+
+## Fudo
 Fudo cuenta con varias funcionalidades, las cuales todas cuentan con subfuncionalidades básicas. Por otro lado, las funcionalidades generales son: Delivery, Fiscal y facturación electrónica.
 
 Funcionalidades generales
@@ -64,3 +61,5 @@ Existen también características que dan un plus al software:
 - Existe un módulo de delivery, el cual permite asignar, verificar, estimar tiempo y asignar reparticiones al mismo.
 - Se pueden emitir boletas fiscales de manera sencilla.
 - Se pueden facturar electrónicamente.
+
+Fudo cuenta con más de 20 referencias de clientes. Esta cantidad, debido a que son empresas pequeñas, no nos puede asegurar que existan interesados en mantenerla activa.
