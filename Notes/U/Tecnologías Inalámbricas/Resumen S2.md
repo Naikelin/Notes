@@ -9,7 +9,7 @@ Celdas *adyacentes* reciben asignación de distintas frecuencias, así no se int
 
 ### Organización de una red celular
 
-![[Drawing 2022-06-06 15.45.31.excalidraw|800]]
+![[Drawing 2022-06-06 15.45.31.excalidraw|600]]
 
 
 
@@ -30,7 +30,6 @@ Para hacer aumento de capacidad existen distintas estrategias:
 Hay dos conceptos que se deben conocer:
 - Al momento de que un móvil se desplaza entre una celda u otra, existe un traspaso de la estación base ***Handoff***.
 - En una estación base, pueden existir cambios de canales ***Handover***.
--
 
 ## Interferencias
 Existen dos tipos de *interferencia*.
@@ -41,4 +40,15 @@ Provocada por la recepción de señales no deseadas por los canales vecinos.
 
 ## Factor de reutilización
 
-![[Drawing 2022-06-06 17.40.58.excalidraw|800]]
+![[Drawing 2022-06-06 17.40.58.excalidraw|1000]]
+
+## Relación señal interferencia
+![[Drawing 2022-06-06 18.09.22.excalidraw|800]]
+
+## Funcionamiento
+
+Existen algunos elementos principales en un sistema celular:
+
+- **Estación base**: En el centro de cada celda. Contiene una *antena*, *controlador* y una *serie de transceptores* para al comunicación de los canales asignados. 
+	- **Controlador**: Se usa para gestionar el proceso de llamada entre el móvil y el resto de la red.
+- **MTSO**: Cada base se comunica con la MTSO, la cual debe ser una comunicación rápida y confiable (cableado). Se encarga de asignar un canal de voz a cada llamada, realizar traspasos y supervisar las llamadas para obtener la información para luego hacer cobros.
