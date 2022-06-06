@@ -7,11 +7,9 @@
         "id": "887cdc9aaec8f80e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "U/Tecnologías Inalámbricas/Resumen S2.md",
-            "mode": "source",
-            "source": false
+            "file": "Excalidraw/Drawing 2022-06-06 17.40.58.excalidraw.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "U/Tecnologías Inalámbricas/Resumen S2.md",
+                "file": "Excalidraw/Drawing 2022-06-06 17.40.58.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +103,15 @@
   },
   "active": "887cdc9aaec8f80e",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-06-06 17.40.58.excalidraw.md",
+    "Excalidraw/Drawing 2022-06-06 16.06.50.excalidraw.md",
     "U/Tecnologías Inalámbricas/Resumen S2.md",
     "U/Tecnologías Inalámbricas/Laboratorio 3.md",
-    "Excalidraw/Drawing 2022-06-06 16.06.50.excalidraw.md",
     "Excalidraw/Drawing 2022-06-06 15.45.31.excalidraw.md",
     "U/Sistemas Distribuidos/Diagrama.png",
     "U/Sistemas Distribuidos/Tarea 3.md",
     "Day Planners/Day Planner-20220606.md",
     "Day Planners/Day Planner-20220525.md",
-    "Day Planners/Day Planner-20220526.md",
-    "Day Planners/Day Planner-20220530.md"
+    "Day Planners/Day Planner-20220526.md"
   ]
 }

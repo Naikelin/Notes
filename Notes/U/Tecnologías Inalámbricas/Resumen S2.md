@@ -25,4 +25,20 @@ Para hacer aumento de capacidad existen distintas estrategias:
 - **Uso de frecuencias prestadas**: Celdas se prestan frecuencias adyacentes, o ir asignando frecuencias de manera dinámica.
 - **División de celdas**: Las celdas pueden ser divididas en celdas aún más pequeñas. La cantidad de subceldas creadas, dependen netamente de características topográficas.
 - **Sectorización de celdas**: Los transmisores utilizan antenas direccionales enfocadas en cada sector de una celda, donde cada una utiliza un conjunto de canales asignados al sector específico.
-- 
+- **Microceldas**: El uso de microceldas permite una reducción de niveles de potencia en la estación base.. Es últil para zonas congestionadas, entre edificios, calles, etc.
+### Organización de una red celular
+Hay dos conceptos que se deben conocer:
+- Al momento de que un móvil se desplaza entre una celda u otra, existe un traspaso de la estación base ***Handoff***.
+- En una estación base, pueden existir cambios de canales ***Handover***.
+-
+
+## Interferencias
+Existen dos tipos de *interferencia*.
+### Cocanal
+Provocada por la recepción no deseada de señales provenientes del mismo canal RF asociado a otro cluster.
+### Canal adyacente
+Provocada por la recepción de señales no deseadas por los canales vecinos.
+
+## Factor de reutilización
+
+![[Drawing 2022-06-06 17.40.58.excalidraw|800]]
