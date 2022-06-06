@@ -52,3 +52,10 @@ Existen algunos elementos principales en un sistema celular:
 - **Estación base**: En el centro de cada celda. Contiene una *antena*, *controlador* y una *serie de transceptores* para al comunicación de los canales asignados. 
 	- **Controlador**: Se usa para gestionar el proceso de llamada entre el móvil y el resto de la red.
 - **MTSO**: Cada base se comunica con la MTSO, la cual debe ser una comunicación rápida y confiable (cableado). Se encarga de asignar un canal de voz a cada llamada, realizar traspasos y supervisar las llamadas para obtener la información para luego hacer cobros.
+
+### Tipos de canales:
+- **Canales de control**: Se usan para el intercambio de información para establecer y mantener una llamada. También se utiliza para mantener la conexión entre el móvil y la BS más cercana,
+- **Canales de tráfico**: se utiliza para enviar información a través del medio.
+
+## Pasos para llamada
+![[Drawing 2022-06-06 19.04.45.excalidraw|800]]
