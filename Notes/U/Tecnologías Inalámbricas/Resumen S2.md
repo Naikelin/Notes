@@ -17,3 +17,12 @@ Celdas *adyacentes* reciben asignación de distintas frecuencias, así no se int
 El punto importante para la reutilización de frecuencias, sin que estos interfieran entre si, es determinar cuántas celdas deben haber entre dos que utilicen la misma.
 Pueden existir ciertos patrones para emplear una estrategia: clúster de 4, 7, 19 celdas... o más.
 
+![[Drawing 2022-06-06 16.06.50.excalidraw|800]]
+
+### Aumento de capacidad
+Para hacer aumento de capacidad existen distintas estrategias:
+- **Adición de nuevos canales**: Cuando se despliega en una región una red celular, es común que no se utilicen todos los canales. Es por esto que se pueden adicionar nuevos canales
+- **Uso de frecuencias prestadas**: Celdas se prestan frecuencias adyacentes, o ir asignando frecuencias de manera dinámica.
+- **División de celdas**: Las celdas pueden ser divididas en celdas aún más pequeñas. La cantidad de subceldas creadas, dependen netamente de características topográficas.
+- **Sectorización de celdas**: Los transmisores utilizan antenas direccionales enfocadas en cada sector de una celda, donde cada una utiliza un conjunto de canales asignados al sector específico.
+- 
