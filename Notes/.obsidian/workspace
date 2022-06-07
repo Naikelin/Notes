@@ -7,11 +7,9 @@
         "id": "86f22414b63043d7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Day Planners/Day Planner-20220607.md",
-            "mode": "source",
-            "source": false
+            "file": "Excalidraw/Drawing 2022-06-07 13.16.35.excalidraw.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20220607.md",
+                "file": "Excalidraw/Drawing 2022-06-07 13.16.35.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +104,15 @@
   },
   "active": "86f22414b63043d7",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20220607.md",
+    "Excalidraw/Drawing 2022-06-07 13.16.35.excalidraw.md",
+    "U/Tecnologías Inalámbricas/Resumen S2.md",
     "U/Evaluación de Proyectos TICS/Taller de evaluación de Proyectos TIC.md",
     "U/Evaluación de Proyectos TICS/Resumen S2.md",
+    "Day Planners/Day Planner-20220607.md",
     "U/Evaluación de Proyectos TICS/Taller 2.md",
     "U/Evaluación de Proyectos TICS/Descripciones de Alternativas.md",
     "U/Tecnologías Inalámbricas/Laboratorio 3.md",
     "U/Sistemas Distribuidos/Diagrama.png",
-    "U/Sistemas Distribuidos/Tarea 3.md",
-    "Excalidraw/Drawing 2022-06-07 13.16.35.excalidraw.md",
-    "Excalidraw/Drawing 2022-06-06 19.04.45.excalidraw.md"
+    "U/Sistemas Distribuidos/Tarea 3.md"
   ]
 }
