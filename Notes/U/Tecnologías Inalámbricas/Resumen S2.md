@@ -65,5 +65,17 @@ Existen principalmente tres mecanismos de acceso al medio
 
 - **FDMA** (Frequency division multiple access): Se divide el espectro en distintas frecuencias, repartiendola para cada canal, donde un canal se usa para un usuario.
 - **TDMA** (Time division multiple access): Se dividen los canales de uso en tiempo. Cada el canal se reparte al usuario en un cierto tiempo, para transmitir la información.
-- **CDMA** (Code division multiple access): 
+- **CDMA** (Code division multiple access): Se pueden transmitir muchas fuentes de datos en un solo canal, sin embargo, necesita mucho ancho de banda.
 
+
+# Normas y sistemas
+
+## Telefonía celular
+### Análoga
+#### AMPS
+![[Drawing 2022-06-07 13.16.35.excalidraw|800]]
+
+### ETACS
+### N-AMPS
+### USDC
+### GSM

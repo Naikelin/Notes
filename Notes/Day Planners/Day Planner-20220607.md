@@ -1,4 +1,7 @@
 ## Day Planner
-- [ ] Resumen TI Arqui celular parte 2
-- [ ] Resumen PEP
+- [x] Resumen TI Arqui celular parte 2 - AMPS
+- [ ] Revisión tareas SD
+- [ ] Resumen TI Arqui celular parte 2 - ETACS + N-AMPS
+- [ ] Resumen TI Arqui celular parte 2 - USDC
+- [x] Resumen PEP - 3A
 - [ ] Resumen IA
