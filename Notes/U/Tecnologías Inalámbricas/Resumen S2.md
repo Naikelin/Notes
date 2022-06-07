@@ -63,7 +63,7 @@ Existen algunos elementos principales en un sistema celular:
 ## Mecanismos de acceso al medio
 Existen principalmente tres mecanismos de acceso al medio
 
-- **FDMA** (Frequency division multiple access):
-- **TDMA** (Time division multiple access):
-- **CDMA** (Code division multiple access):
+- **FDMA** (Frequency division multiple access): Se divide el espectro en distintas frecuencias, repartiendola para cada canal, donde un canal se usa para un usuario.
+- **TDMA** (Time division multiple access): Se dividen los canales de uso en tiempo. Cada el canal se reparte al usuario en un cierto tiempo, para transmitir la información.
+- **CDMA** (Code division multiple access): 
 
