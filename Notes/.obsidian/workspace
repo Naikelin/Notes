@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "86f22414b63043d7",
+        "id": "9bc9969138f14638",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "U/Arquitectura de Software/Drawing 2022-06-08 14.06.59.excalidraw.png"
+            "file": "U/Arquitectura de Software/Database.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "U/Arquitectura de Software/Drawing 2022-06-08 14.06.59.excalidraw.png",
+                "file": "U/Arquitectura de Software/Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +104,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "86f22414b63043d7",
+  "active": "9bc9969138f14638",
   "lastOpenFiles": [
+    "U/Arquitectura de Software/Database.md",
     "U/Arquitectura de Software/Drawing 2022-06-08 14.06.59.excalidraw.png",
     "U/Arquitectura de Software/Drawing 2022-06-08 14.06.59.excalidraw.md",
     "U/Pelec/Notitas.md",
@@ -112,7 +115,6 @@
     "U/Tecnologías Inalámbricas/Resumen S2.md",
     "U/Evaluación de Proyectos TICS/Taller de evaluación de Proyectos TIC.md",
     "U/Evaluación de Proyectos TICS/Resumen S2.md",
-    "U/Evaluación de Proyectos TICS/Taller 2.md",
-    "U/Evaluación de Proyectos TICS/Descripciones de Alternativas.md"
+    "U/Evaluación de Proyectos TICS/Taller 2.md"
   ]
 }
