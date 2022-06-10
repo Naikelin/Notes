@@ -1,3 +1,5 @@
+# Propagación Pequeña Escala
+
 # Sistemas de Telefonía Celular
 
 Tecnología celular posibilita el acceso de usuarios a lugares dificilmente alcanzables. Tecnología celular recae en sistemas de comunicaciones personales, acceso inalámbrico a Internet, aplicaciones web y más.
@@ -68,8 +70,7 @@ Existen principalmente tres mecanismos de acceso al medio
 - **CDMA** (Code division multiple access): Se pueden transmitir muchas fuentes de datos en un solo canal, sin embargo, necesita mucho ancho de banda.
 
 
-# Normas y sistemas
-
+# Normas y Sistemas
 ## Telefonía celular
 ### Análoga
 AMPS, ETACS y N-AMPS
