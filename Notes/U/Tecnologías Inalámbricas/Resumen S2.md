@@ -1,5 +1,5 @@
 # Propagación Pequeña Escala
-
+![[Drawing 2022-06-10 17.07.12.excalidraw|800]]
 # Sistemas de Telefonía Celular
 
 Tecnología celular posibilita el acceso de usuarios a lugares dificilmente alcanzables. Tecnología celular recae en sistemas de comunicaciones personales, acceso inalámbrico a Internet, aplicaciones web y más.
