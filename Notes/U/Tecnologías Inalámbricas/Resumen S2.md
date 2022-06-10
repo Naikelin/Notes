@@ -72,10 +72,11 @@ Existen principalmente tres mecanismos de acceso al medio
 
 ## Telefonía celular
 ### Análoga
-#### AMPS
+AMPS, ETACS y N-AMPS
+
 ![[Drawing 2022-06-07 13.16.35.excalidraw|800]]
 
-### ETACS
-### N-AMPS
-### USDC
-### GSM
+#### USDC y GSM
+
+### Digital
+![[Drawing 2022-06-09 13.15.27.excalidraw|800]]
