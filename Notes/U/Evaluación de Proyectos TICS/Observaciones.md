@@ -11,7 +11,7 @@ Finalmente, dado que técnicamente los equipos arrendados no obsolecen en el hor
 
 Respecto a egresos anteriores a la puesta en marcha, se consideran: Estudios por 3.200.000.-, Desarrollo de Software por $ 45.000.000.-, Patentes (licencias) por $ 4.000.000.-  e Instalaciones por $16.000.000.-  
 
-Además, como inversiones iniciales, se debe construir, en los terrenos de la empresa, una Bodega por $30.000.000.- La adquisición de equipos, que debe realizarse en el período (año) anterior a los nuevos arriendos correspondientes, implican el egreso de un sexto del valor de arriendo del año siguiente.  
+Además, como inversiones iniciales, se debe construir, en los terrenos de la empresa, una Bodega por $30.000.000.- La adquisición de equipos, que debe realizarse en el período (año) anterior a los nuevos arriendos correspondientes, implican el egreso de un sexto del valor de arriendo del año siguiente.
 
 Desde el punto de vista tributario, impuesto a las utilidadaes vigente es del 27%, considerando que el SII obliga, para estos efectos, a depreciar linealmente en 5 años las inversiones en equipos, y en 10 años las construcciones.
 
