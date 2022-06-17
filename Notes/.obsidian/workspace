@@ -7,11 +7,9 @@
         "id": "9bc9969138f14638",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "U/Tecnologías Inalámbricas/Resumen S2.md",
-            "mode": "source",
-            "source": false
+            "file": "U/Inteligencia Artificial/Drawing 2022-06-10 19.16.44.excalidraw.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "U/Tecnologías Inalámbricas/Resumen S2.md",
+                "file": "U/Inteligencia Artificial/Drawing 2022-06-10 19.16.44.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +104,15 @@
   },
   "active": "9bc9969138f14638",
   "lastOpenFiles": [
+    "U/Inteligencia Artificial/Drawing 2022-06-10 19.16.44.excalidraw.md",
+    "U/Inteligencia Artificial/Resumen S2.md",
+    "U/Inteligencia Artificial/Drawing 2022-06-13 00.41.29.excalidraw.md",
     "U/Tecnologías Inalámbricas/Resumen S2.md",
     "U/Evaluación de Proyectos TICS/Observaciones.md",
     "U/Evaluación de Proyectos TICS/Taller 2.md",
     "U/Evaluación de Proyectos TICS/Taller de evaluación de Proyectos TIC.md",
     "U/Evaluación de Proyectos TICS/Resumen S2.md",
     "U/Tecnologías Inalámbricas/Resumen S2.pdf",
-    "U/Evaluación de Proyectos TICS/Descripciones de Alternativas.md",
-    "U/Inteligencia Artificial/Resumen S2.md",
-    "U/Inteligencia Artificial/Drawing 2022-06-13 00.41.29.excalidraw.md",
-    "U/Inteligencia Artificial/Drawing 2022-06-10 19.16.44.excalidraw.md"
+    "U/Evaluación de Proyectos TICS/Descripciones de Alternativas.md"
   ]
 }
