@@ -1,3 +1,7 @@
 {
-  "things-style@@macOS-translucent": false
+  "things-style@@macOS-translucent": false,
+  "things-style@@text": "Inter,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif",
+  "things-style@@text-editor": "Inter,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif",
+  "things-style@@font-monospace": "Inter,FiraCode Nerd Font Mono,Menlo,SFMono-Regular,Consolas,\"Roboto Mono\",monospace",
+  "things-style@@font-ui": "Inter,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif"
 }

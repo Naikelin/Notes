@@ -1,9 +1,12 @@
 {
   "cssTheme": "Things",
   "translucency": false,
-  "baseFontSize": 18,
-  "textFontFamily": "MonoLisa",
-  "monospaceFontFamily": "MonoLisa",
-  "interfaceFontFamily": "",
-  "enabledCssSnippets": []
+  "baseFontSize": 16,
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "Inter",
+  "interfaceFontFamily": "Inter",
+  "enabledCssSnippets": [
+    "fira",
+    "font"
+  ]
 }
