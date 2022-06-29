@@ -5,4 +5,4 @@
 
 **Trunking**:
 
-Aprovecha el comportamiento estadístico de los usuarios.
+Aprovecha el comportamiento estadístico de los usuarios.  
