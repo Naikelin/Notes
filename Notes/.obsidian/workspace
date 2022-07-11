@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2033306d7bd9e34a",
+        "id": "c0f17054c1abf540",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "U/Hidrator.md",
+            "file": "H4cking Projects/Beginner.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "U/Hidrator.md",
+                "file": "H4cking Projects/Beginner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2033306d7bd9e34a",
+  "active": "c0f17054c1abf540",
   "lastOpenFiles": [
-    "U/Hidrator.md",
-    "U/Tecnologías Inalámbricas/Control recuperativo/Preguntas.md",
-    "U/Tecnologías Inalámbricas/Control recuperativo/Resumen Control Recuperativo.md",
-    "U/Tecnologías Inalámbricas/Drawing 2022-06-29 18.12.03.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Convert freedraw to line.md",
-    "U/Tecnologías Inalámbricas/S2/Resumen S2.md",
-    "U/Tecnologías Inalámbricas/S2/Resumen S2.pdf",
-    "U/Arquitectura de Software/Database.md",
-    "U/Inteligencia Artificial/Drawing 2022-06-13 00.41.29.excalidraw.md",
-    "U/Inteligencia Artificial/Drawing 2022-06-10 19.16.44.excalidraw.png"
+    "H4cking Projects/Beginner.md",
+    "H4cking Projects/Drawing 2022-07-11 04.04.34.excalidraw.md",
+    "H4cking Projects/Intermediate.md",
+    "U/Semestre 10/Tecnologías Inalámbricas/S2/Resumen S2.md",
+    "U/Semestre 10/Tecnologías Inalámbricas/S2/Drawing 2022-06-10 17.07.12.excalidraw.md",
+    "U/Semestre 10/Tecnologías Inalámbricas/S2/Drawing 2022-06-06 15.45.31.excalidraw.md",
+    "U/Semestre 10/Tecnologías Inalámbricas/Control recuperativo/Preguntas.md",
+    "U/Semestre 10/Tecnologías Inalámbricas/Control recuperativo/Resumen Control Recuperativo.md",
+    "Drawing 2022-07-11 04.04.34.excalidraw][800.md",
+    "H4cking Projects/Advanced.md"
   ]
 }
