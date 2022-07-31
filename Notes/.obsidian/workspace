@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "U/Investigación/Bluetooth.md",
+            "file": "U/DS/T1.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "U/Investigación/Bluetooth.md",
+                "file": "U/DS/T1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "c0f17054c1abf540",
   "lastOpenFiles": [
+    "U/Investigación/Bluetooth.md",
     "H4cking Projects/Beginner.md",
     "H4cking Projects/Drawing 2022-07-11 04.04.34.excalidraw.md",
     "H4cking Projects/Advanced.md",
@@ -114,7 +115,6 @@
     "U/Semestre 10/Tecnologías Inalámbricas/S2/Drawing 2022-06-10 17.07.12.excalidraw.md",
     "U/Semestre 10/Tecnologías Inalámbricas/S2/Drawing 2022-06-06 15.45.31.excalidraw.md",
     "U/Semestre 10/Tecnologías Inalámbricas/Control recuperativo/Preguntas.md",
-    "U/Semestre 10/Tecnologías Inalámbricas/Control recuperativo/Resumen Control Recuperativo.md",
-    "Drawing 2022-07-11 04.04.34.excalidraw][800.md"
+    "U/Semestre 10/Tecnologías Inalámbricas/Control recuperativo/Resumen Control Recuperativo.md"
   ]
 }
